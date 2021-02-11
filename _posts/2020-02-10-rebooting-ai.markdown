@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rebooting AI - Building Artificial Intelligence We Can Trust
-date: 2017-09-12 13:32:20 +0300
+date: 2020-02-10 13:32:20 +0300
 description: This is summary of the above titled book written by Gary Marcus and Ernest Davis
 img: 1200x630wz.png 
 fig-caption: 
